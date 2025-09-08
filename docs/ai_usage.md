@@ -1,4 +1,4 @@
-**AI Usage Log
+AI Usage Log
 
 Notes on how I incorporated AI support while completing Beginning Bioinformatics (Part 3). I ran and reviewed all final code myself and confirmed outputs using test cases and small datasets.
 
